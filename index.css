@@ -1,0 +1,40 @@
+* {
+    font-family: monospace;
+}
+
+h1 {
+    background-color: #273E47;
+    color: #FFFFFF; 
+}
+h2 {
+    margin-left: 40px;
+}
+p {
+    margin-right: 500px;
+    padding-left: 20px;
+}
+body {
+    background-color: #AEB7BA; 
+}
+div {
+    background-color: red;
+    background-image: url('https://s3-media4.fl.yelpcdn.com/bphoto/auVDCuMTARNdm_g99zK8Ug/o.jpg');
+    height: 450px;
+    width: 300px; 
+    background-size: cover;
+    margin-left: 40px;
+    background-repeat: none;
+    padding: 10px;
+}
+
+button {
+    margin-top: 40px;
+    margin-left: 145px;
+
+}
+
+h3 {
+    background-color: #273E47;
+    color: #FFFFFF;
+    margin-top: 150px;
+}
